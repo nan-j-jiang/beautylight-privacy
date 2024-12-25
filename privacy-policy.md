@@ -1,6 +1,6 @@
 # Privacy Policy for BeautyLight
 
-Last updated: [Current Date]
+Last updated: Dec 25, 2024
 
 ## Introduction
 This privacy policy explains how BeautyLight ("we", "us", or "our") handles your data when you use our mobile application ("BeautyLight" or "App").
